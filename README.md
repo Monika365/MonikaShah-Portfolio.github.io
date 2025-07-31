@@ -22,5 +22,6 @@ Constant learning and upskilling to stay ahead in tech
 Each project is chosen and built with purpose — to demonstrate not just what I can build, but how I think, approach challenges, and adapt to new tools and technologies. My goal is to make a meaningful impact through smart, scalable solutions.
 
 📫 Let’s Connect
-If you’d like to collaborate, have questions about a project, or just want to connect, feel free to reach out via [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/monika-shah-064489124/)
+If you’d like to collaborate, have questions about a project, or just want to connect, feel free to reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-Monika%20Shah-blue?logo=linkedin)](https://www.linkedin.com/in/monika-shah-064489124/)
+
 
